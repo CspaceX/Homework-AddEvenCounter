@@ -61,11 +61,7 @@ namespace OddAndEvenCounter
                 if (exit == "E" || exit == "e")
                 {
                     break;
-                }
-                else
-                {
-                    continue;                              
-                }                
+                }                      
             }
         }
     }
